@@ -537,7 +537,7 @@ void c_hero::npc(int select)
 	case 47: // The first store
 		if (select==1 && money>=25)
 		{
-			hp+=800;
+			hp+=400;
 			money-=25;
 		}
 		if (select==2 && money>=25)
@@ -554,7 +554,7 @@ void c_hero::npc(int select)
 	case 48: // The second store
 		if (select==1 && money>=100)
 		{
-			hp+=4000;
+			hp+=2000;
 			money-=100;
 		}
 		if (select==2 && money>=100)

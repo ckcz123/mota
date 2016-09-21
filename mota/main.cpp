@@ -349,9 +349,9 @@ bool renderFunc()
 		if (npcid==46)
 			showMessage("你想购买钥匙吗？\n[1] 黄钥匙 （10金币）\n[2] 蓝钥匙 （50金币）\n[3] 红钥匙 （100金币）\n[ENTER] 退出");
 		if (npcid==47)
-			showMessage("你可以用25金币：\n[1] 生命+800\n[2] 攻击+4\n[3] 防御+4\n[ENTER] 退出");
+			showMessage("你可以用25金币：\n[1] 生命+400\n[2] 攻击+4\n[3] 防御+4\n[ENTER] 退出");
 		if (npcid==48)
-			showMessage("你可以用100金币：\n[1] 生命+4000\n[2] 攻击+20\n[3] 防御+20\n[ENTER] 退出");
+			showMessage("你可以用100金币：\n[1] 生命+2000\n[2] 攻击+20\n[3] 防御+20\n[ENTER] 退出");
 		if (npcid==49)
 			showMessage("你想用经验提升你的能力吗？\n[1] 提升三级 （270经验）\n[2] 攻击+17 （95经验）\n[3] 防御+17 （95经验）\n[ENTER] 退出");
 		if (npcid==50)

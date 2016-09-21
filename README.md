@@ -11,6 +11,7 @@
   5. 增添了三种结局：NORMAL END，HAPPY END，TRUE END。
   6. 更多的特性期待你来发掘~
 
+  下载地址：http://tieba.baidu.com/p/4750932385
 
 ### 编译运行
 

@@ -15,6 +15,7 @@
 
 ### 编译运行
 
-请使用vs2012及以上进行编译运行。  
+请使用VS2012及以上进行编译运行。  
+如果使用VS2015进行编译，请将 `legacy_stdio_definitions.lib` 加入到项目库中，以免发生 `error LNK2019: unresolved external symbol _sscanf` 错误。  
 **请将hge文件夹下的所有`dll`文件，以及源代码目录下的`Res`和`Save`文件夹，复制到生成文件夹中，才可以正常进行运行游戏。**   
 如果有问题，请联系 `ckcz123@126.com`。  
